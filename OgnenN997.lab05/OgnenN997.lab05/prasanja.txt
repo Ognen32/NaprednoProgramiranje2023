@@ -1,0 +1,13 @@
+1. Which company created the iPhone?; a) Samsung b) Google c) Apple
+2. What is the most commonly used programming language?; a) Python b) Ruby c) Java
+3. Which company created the first commercially successful microprocessor?; a) Intel b) AMD c) NVIDIA
+4. What does RAM stand for?; a) Random Access Memory b) Read Access Memory c) Rapid Access Memory
+5. Which company created the first search engine?; a) Yahoo! b) Google c) AOL
+6. What is the name of Amazon's virtual assistant?; a) Alexa b) Siri c) Cortana
+7. Which company created the first graphical user interface (GUI)?; a) Apple b) Microsoft c) Xerox
+8. Which programming language was named after a television show?; a) Python b) Ruby c) Perl
+9. Which company created the first laptop computer?; a) IBM b) Apple c) HP
+10. What does HTML stand for?; a) Hyperlinks and Text Markup Language b) Hypertext Markup Language c) Hyperlinks and Text Manipulation Language
+11. Which company created the first commercial video game console?; a) Atari b) Nintendo c) Sega
+12. What is the name of Microsoft's web browser?; a) Firefox b) Chrome c) Edge
+

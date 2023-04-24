@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Private\Desktop\OgnenN997.lab05\OgnenN997.lab05\Source.cpp(61): warning C4715: 'checkOdgovor': not all control paths return a value
+C:\Users\Private\Desktop\OgnenN997.lab05\OgnenN997.lab05\Source.cpp(108): warning C4715: 'score': not all control paths return a value
+  OgnenN997.lab05.vcxproj -> C:\Users\Private\Desktop\OgnenN997.lab05\x64\Debug\OgnenN997.lab05.exe
