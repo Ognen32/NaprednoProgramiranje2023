@@ -1,0 +1,88 @@
+﻿  STL_Proekt.cpp
+C:\Users\Private\Desktop\STL_Proekt\STL_Proekt\STL_Proekt.cpp(43,23): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\Private\Desktop\STL_Proekt\STL_Proekt\STL_Proekt.cpp(68,15): warning C4101: 'temp2': unreferenced local variable
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(172,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\Private\Desktop\STL_Proekt\STL_Proekt\STL_Proekt.cpp(21,5): message : see reference to function template instantiation 'std::pair<const std::string,float>::pair<const char(&)[7],int,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=const char (&)[7],
+              _Other2=int
+          ]
+C:\Users\Private\Desktop\STL_Proekt\STL_Proekt\STL_Proekt.cpp(12,34): message : see reference to function template instantiation 'std::pair<const std::string,float>::pair<const char(&)[7],int,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Other1=const char (&)[7],
+              _Other2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(193,38): warning C4244: 'initializing': conversion from 'const _Ty2' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(673): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<const std::string,float,0>(const std::pair<const std::string,float> &) noexcept(false)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(680,47): message : see reference to function template instantiation 'std::pair<std::string,int>::pair<const std::string,float,0>(const std::pair<const std::string,float> &) noexcept(false)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1659): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<const std::string,float>&>(_Alloc &,_Objty *const ,std::pair<const std::string,float> &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<std::string,int>>,
+              _Ty=std::pair<std::string,int>,
+              _Objty=std::pair<std::string,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1660,44): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<const std::string,float>&>(_Alloc &,_Objty *const ,std::pair<const std::string,float> &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<std::string,int>>,
+              _Ty=std::pair<std::string,int>,
+              _Objty=std::pair<std::string,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1677): message : see reference to function template instantiation 'void std::_Uninitialized_backout_al<std::allocator<std::pair<std::string,int>>>::_Emplace_back<std::pair<const std::string,float>&>(std::pair<const std::string,float> &)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1714,31): message : see reference to function template instantiation 'void std::_Uninitialized_backout_al<std::allocator<std::pair<std::string,int>>>::_Emplace_back<std::pair<const std::string,float>&>(std::pair<const std::string,float> &)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(2119): message : see reference to function template instantiation 'std::pair<std::string,int> *std::_Uninitialized_copy<_Ty,_Ty,std::allocator<std::pair<std::string,int>>>(_InIt,_Se,std::pair<std::string,int> *,_Alloc &)' being compiled
+          with
+          [
+              _Ty=std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<const std::string,float>>>>,
+              _InIt=std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<const std::string,float>>>>,
+              _Se=std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::pair<const std::string,float>>>>,
+              _Alloc=std::allocator<std::pair<std::string,int>>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(700,1): message : see reference to function template instantiation 'void std::vector<std::pair<std::string,int>,std::allocator<std::pair<std::string,int>>>::_Construct_n<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>>(const unsigned __int64,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &&,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &&)' being compiled
+          with
+          [
+              _Ty=std::pair<const std::string,float>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(700,25): message : see reference to function template instantiation 'void std::vector<std::pair<std::string,int>,std::allocator<std::pair<std::string,int>>>::_Construct_n<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>>(const unsigned __int64,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &&,std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &&)' being compiled
+          with
+          [
+              _Ty=std::pair<const std::string,float>
+          ]
+C:\Users\Private\Desktop\STL_Proekt\STL_Proekt\STL_Proekt.cpp(53): message : see reference to function template instantiation 'std::vector<std::pair<std::string,int>,std::allocator<std::pair<std::string,int>>>::vector<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=std::pair<const std::string,float>,
+              _Iter=std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const std::string,float>>>>,
+              _Alloc=std::allocator<std::pair<std::string,int>>
+          ]
+C:\Users\Private\Desktop\STL_Proekt\STL_Proekt\STL_Proekt.cpp(53,31): message : see reference to function template instantiation 'std::vector<std::pair<std::string,int>,std::allocator<std::pair<std::string,int>>>::vector<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=std::pair<const std::string,float>,
+              _Iter=std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const std::string,float>>>>,
+              _Alloc=std::allocator<std::pair<std::string,int>>
+          ]
+  STL_Proekt.vcxproj -> C:\Users\Private\Desktop\STL_Proekt\x64\Debug\STL_Proekt.exe

@@ -1,0 +1,12 @@
+Ohrid: 17 C 
+Skopje: 19 C 
+Kicevo: 21 C 
+Bitola: 19 C 
+Stip: 23 C 
+Kumanovo: 21 C 
+Prilep: 21 C 
+Tetovo: 21 C 
+
+Poslednite dva elementi od dadotekata:
+INKI,997
+Ognen 19.01
