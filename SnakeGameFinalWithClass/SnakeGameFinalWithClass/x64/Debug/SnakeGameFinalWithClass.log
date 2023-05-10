@@ -1,0 +1,3 @@
+﻿  SnakeGameFinalWithClass.cpp
+C:\Users\Private\source\repos\SnakeGameFinalWithClass\SnakeGameFinalWithClass\SnakeGameFinalWithClass.cpp(159,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakeGameFinalWithClass.vcxproj -> C:\Users\Private\source\repos\SnakeGameFinalWithClass\x64\Debug\SnakeGameFinalWithClass.exe
